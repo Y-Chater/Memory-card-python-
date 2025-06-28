@@ -15,9 +15,6 @@ Score and statistics printed to the console
 🚀 How to Run
 Make sure you have Python installed, then run the following commands in your terminal:
 
-bash
-Copier
-Modifier
 # Install PyQt5
 ```pip install pyqt5 ```
 
