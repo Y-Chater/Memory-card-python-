@@ -19,7 +19,7 @@ bash
 Copier
 Modifier
 # Install PyQt5
-pip install pyqt5
+```bash pip install pyqt5
 
 # Run the script
 python my_memory_card.py
