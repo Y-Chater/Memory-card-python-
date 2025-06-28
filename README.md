@@ -28,9 +28,6 @@ my_memory_card.py: Main script containing all the code for the app.
 
 📊 Example Output (in the terminal)
 ```
-Copier
-Modifier
-Statistics
 -Total questions: 5
 -Right answers: 3
 Rating: 60.0 % ```
