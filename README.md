@@ -19,22 +19,22 @@ bash
 Copier
 Modifier
 # Install PyQt5
-```bash pip install pyqt5 ```bash
+```pip install pyqt5 ```
 
 # Run the script
-```bash python my_memory_card.py ```bash
+```python my_memory_card.py ```
 📁 File Description
 my_memory_card.py: Main script containing all the code for the app.
 
 📊 Example Output (in the terminal)
-```bash
+```
 Copier
 Modifier
 Statistics
 -Total questions: 5
 -Right answers: 3
-Rating: 60.0 %
-```bash
+Rating: 60.0 % ```
+
 ✅ To-Do / Possible Improvements
 Add more questions
 
