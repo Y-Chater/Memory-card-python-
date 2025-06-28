@@ -27,7 +27,7 @@ my_memory_card.py: Main script containing all the code for the app.
 ```
 -Total questions: 5
 -Right answers: 3
-Rating: 60.0 % ```
+Rating: 60.0 %  ```
 
 ✅ To-Do / Possible Improvements
 Add more questions
