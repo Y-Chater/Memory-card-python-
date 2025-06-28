@@ -1,4 +1,3 @@
-# Memory-card-python-
 🧠 Memory Card - Quiz App
 A small Python project using PyQt5 that displays multiple-choice questions. The user selects an answer and immediately sees whether it is correct. Questions are chosen randomly, and the score is shown in the console.
 
@@ -14,27 +13,21 @@ Instant feedback: correct or incorrect
 Score and statistics printed to the console
 
 🚀 How to Run
-Make sure you have Python 3 installed.
-
-Install the required library:
+Make sure you have Python installed, then run the following commands in your terminal:
 
 bash
 Copier
 Modifier
+# Install PyQt5
 pip install pyqt5
-Run the script:
 
-bash
-Copier
-Modifier
+# Run the script
 python my_memory_card.py
 📁 File Description
 my_memory_card.py: Main script containing all the code for the app.
 
-📊 Example Output
-In the console:
-
-yaml
+📊 Example Output (in the terminal)
+bash
 Copier
 Modifier
 Statistics
